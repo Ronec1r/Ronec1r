@@ -29,5 +29,3 @@
 <br/>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ronec1r&bg_color=113136&color=ffffff&line=4c9d9e&point=05e5f5&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-[![Snake animation](https://github.com/Ronec1r/Ronec1r/blob/output/github-contribution-grid-snake.svg
