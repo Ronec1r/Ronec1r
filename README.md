@@ -10,8 +10,10 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Ronec1r&show_icons=true&count_private=true&hide_border=true&title_color=1A565F&icon_color=1A565F&text_color=c9d1d9&bg_color=0d1117"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronec1r&layout=compact&hide_border=true&title_color=1A565F&text_color=C9D1D9&bg_color=0d1117" />
 </div>
+
+| [![GitHub Streak](https://streak-stats.demolab.com?user=Ronec1r&theme=material-palenight&hide_border=true&background=161B22&ring=40C463&fire=4CE775&sideNums=5299EA&currStreakNum=5299EA&currStreakLabel=5299EA&sideLabels=1C59B8)](https://git.io/streak-stats) |<img height="197px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronec1r&layout=compact&hide_border=true&title_color=1A565F&text_color=C9D1D9&bg_color=0d1117" />|
+| ------------- | ------------- |
 
 <hr/>  
 
