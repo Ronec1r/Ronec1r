@@ -7,9 +7,10 @@
  <br/> 
  I'm a Computer Science student at Federal Institute of Sergipe  
 </div>
-
+<br/> 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Ronec1r&show_icons=true&count_private=true&hide_border=true&title_color=1A565F&icon_color=1A565F&text_color=c9d1d9&bg_color=0d1117"/> 
+  <img width="50%" height="175px" src="https://github-readme-stats.vercel.app/api?username=Ronec1r&show_icons=true&theme=github_dark&bg_color=161B22&hide_border=true&include_all_commits=true&count_private=false&hide_rank=true"/>
+  <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronec1r&layout=compact&langs_count=6&theme=github_dark&bg_color=161B22&hide_border=true&include_orgs=true&count_private=true"/>
 </div>
 
 <hr/>  
