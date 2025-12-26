@@ -10,7 +10,7 @@
 <br/> 
 <div align="center">  
   <img width="50%" height="145px" src="https://github-readme-stats-rone.vercel.app/api?username=Ronec1r&show_icons=true&theme=github_dark&bg_color=161B22&hide_border=true&include_all_commits=true&count_private=true&hide_rank=true"/>
-  <img width="45%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronec1r&layout=compact&langs_count=6&theme=github_dark&bg_color=161B22&hide_border=true&include_orgs=true&count_private=true"/>
+  <img width="45%" height="200px" src="https://github-readme-stats-rone.vercel.app/api/top-langs/?username=Ronec1r&layout=compact&langs_count=6&theme=github_dark&bg_color=161B22&hide_border=true&include_orgs=true&count_private=true"/>
 </div>
 
 <hr/>  
